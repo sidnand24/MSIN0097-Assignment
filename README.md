@@ -1,4 +1,4 @@
-# msin0097 assignment
+# MSIN0097 assignment
 -----------------------
 This end-to-end machine learning project focuses on evaluating various models on their predictive capability for determining the return on investment / resale price premium for Yeezy and Off-White sneakers.
 
